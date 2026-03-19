@@ -1,0 +1,501 @@
+id,product_name,price,quantity
+1,Mechanical Keyboard,4116,61
+2,External SSD,5002,170
+3,Power Bank,1795,3
+4,HDMI Cable,6759,165
+5,HDMI Cable,8403,75
+6,Gaming Headset,1544,124
+7,SSD Drive,7026,21
+8,Power Bank,5641,105
+9,Keyboard Wrist Rest,9993,79
+10,Power Bank,4377,174
+11,Laptop Stand,4931,56
+12,Wireless Mouse,3047,69
+13,Gaming Mousepad,5029,143
+14,USB Hub,7122,111
+15,Noise Cancelling Headphones,1959,29
+16,Laptop Backpack,437,5
+17,External SSD,9918,88
+18,Webcam HD,8410,44
+19,Laptop Backpack,834,145
+20,Webcam HD,4025,52
+21,External SSD,5504,88
+22,Gaming Mousepad,1874,175
+23,Wireless Mouse,1392,105
+24,HDMI Cable,3447,162
+25,Webcam HD,3793,62
+26,Bluetooth Speaker,5931,117
+27,Mechanical Keyboard,6693,61
+28,Portable Charger,1775,55
+29,Gaming Mousepad,1472,135
+30,Smartphone Stand,1245,55
+31,Monitor 24inch,1492,59
+32,Portable Charger,4147,193
+33,Portable Charger,2331,75
+34,Webcam HD,9690,74
+35,USB Hub,6622,133
+36,Mechanical Keyboard,8865,46
+37,External SSD,7321,195
+38,Wireless Mouse,5269,70
+39,Gaming Mousepad,4007,11
+40,USB Cable,5363,57
+41,Gaming Headset,5032,84
+42,USB Hub,4294,43
+43,Webcam HD,9562,155
+44,Monitor 24inch,9267,122
+45,Power Bank,6040,10
+46,Laptop Backpack,1658,135
+47,Webcam HD,8052,21
+48,Monitor 24inch,1534,9
+49,Laptop Cooling Pad,4484,93
+50,Mechanical Keyboard,4706,5
+51,Noise Cancelling Headphones,582,31
+52,Laptop Backpack,5052,81
+53,USB Cable,8926,177
+54,Bluetooth Speaker,1047,61
+55,Portable Charger,1803,117
+56,SSD Drive,6775,189
+57,SSD Drive,3170,36
+58,HDMI Cable,9209,119
+59,Power Bank,1931,25
+60,Gaming Headset,3836,172
+61,Laptop Backpack,3701,114
+62,Noise Cancelling Headphones,6464,79
+63,Gaming Headset,6224,41
+64,USB Hub,9058,143
+65,Power Bank,4171,9
+66,Laptop Stand,9761,101
+67,Monitor 24inch,2227,20
+68,Laptop Cooling Pad,5527,162
+69,Laptop Backpack,8601,110
+70,HDMI Cable,3384,93
+71,Mechanical Keyboard,3251,149
+72,Monitor 24inch,6065,142
+73,Laptop Backpack,9203,128
+74,Gaming Mousepad,6697,65
+75,USB Cable,6460,7
+76,Mechanical Keyboard,3049,60
+77,USB Cable,548,8
+78,Smartphone Stand,6576,185
+79,External SSD,8802,26
+80,Laptop Backpack,7643,124
+81,SSD Drive,7369,84
+82,Power Bank,4199,169
+83,USB Hub,7460,83
+84,Noise Cancelling Headphones,4618,27
+85,Portable Charger,6847,131
+86,Noise Cancelling Headphones,4490,137
+87,Keyboard Wrist Rest,7631,87
+88,Webcam HD,2088,48
+89,Monitor 24inch,9070,43
+90,USB Hub,6726,110
+91,Laptop Backpack,7827,71
+92,Laptop Stand,4470,110
+93,External SSD,4373,74
+94,SSD Drive,5962,174
+95,Laptop Cooling Pad,8396,22
+96,Gaming Headset,6834,21
+97,Webcam HD,1969,103
+98,USB Hub,256,87
+99,Gaming Headset,1670,118
+100,Monitor 24inch,1356,14
+101,Noise Cancelling Headphones,186,95
+102,SSD Drive,7435,108
+103,Gaming Headset,8108,154
+104,Wireless Mouse,2585,179
+105,Power Bank,6944,95
+106,USB Hub,9657,43
+107,Smartphone Stand,5929,88
+108,Mechanical Keyboard,3658,105
+109,Bluetooth Speaker,9331,46
+110,External SSD,9129,92
+111,Webcam HD,1166,33
+112,Portable Charger,5292,158
+113,External SSD,2349,145
+114,Noise Cancelling Headphones,371,58
+115,USB Hub,8319,60
+116,USB Cable,1717,107
+117,Laptop Cooling Pad,6557,8
+118,Keyboard Wrist Rest,2382,30
+119,SSD Drive,628,58
+120,Mechanical Keyboard,2710,46
+121,HDMI Cable,2514,162
+122,Gaming Mousepad,8318,145
+123,Portable Charger,2298,13
+124,USB Hub,3070,6
+125,Wireless Mouse,6675,130
+126,Wireless Mouse,9912,118
+127,Webcam HD,1428,50
+128,Keyboard Wrist Rest,4420,181
+129,Smartphone Stand,8434,65
+130,Mechanical Keyboard,4930,190
+131,Bluetooth Speaker,4550,140
+132,Gaming Headset,4413,133
+133,External SSD,6413,142
+134,Laptop Backpack,3694,57
+135,Monitor 24inch,4325,30
+136,SSD Drive,933,193
+137,Monitor 24inch,5353,103
+138,Keyboard Wrist Rest,5876,139
+139,Keyboard Wrist Rest,2015,96
+140,Mechanical Keyboard,3444,158
+141,Monitor 24inch,9880,57
+142,Wireless Mouse,6875,60
+143,Noise Cancelling Headphones,407,173
+144,Webcam HD,8790,64
+145,USB Cable,1134,5
+146,HDMI Cable,3563,28
+147,Power Bank,2000,102
+148,Monitor 24inch,6046,110
+149,Laptop Backpack,2274,154
+150,Gaming Headset,559,153
+151,USB Cable,5791,76
+152,Keyboard Wrist Rest,5145,82
+153,Gaming Headset,3400,55
+154,Laptop Backpack,6236,150
+155,Noise Cancelling Headphones,3988,164
+156,Laptop Cooling Pad,6046,10
+157,Gaming Headset,326,63
+158,HDMI Cable,1942,185
+159,Bluetooth Speaker,1745,157
+160,Laptop Cooling Pad,8087,44
+161,Monitor 24inch,5978,153
+162,Monitor 24inch,9781,68
+163,USB Cable,3730,49
+164,HDMI Cable,4152,168
+165,Keyboard Wrist Rest,8687,55
+166,Laptop Cooling Pad,4423,145
+167,Bluetooth Speaker,6540,141
+168,Power Bank,9435,177
+169,Gaming Headset,6701,161
+170,Gaming Mousepad,2527,192
+171,Laptop Backpack,6094,129
+172,Webcam HD,3522,70
+173,Monitor 24inch,1314,181
+174,Laptop Backpack,6679,90
+175,Monitor 24inch,4567,42
+176,Laptop Cooling Pad,2586,8
+177,Gaming Headset,7627,176
+178,Smartphone Stand,8335,167
+179,Gaming Mousepad,5648,52
+180,Noise Cancelling Headphones,5637,19
+181,Smartphone Stand,6308,108
+182,Mechanical Keyboard,2088,17
+183,External SSD,9075,114
+184,Webcam HD,9095,35
+185,Portable Charger,4118,140
+186,Webcam HD,3791,66
+187,External SSD,1035,147
+188,Gaming Mousepad,4004,69
+189,Laptop Backpack,9245,16
+190,Laptop Cooling Pad,4053,192
+191,Laptop Stand,1166,13
+192,Laptop Stand,2510,122
+193,USB Cable,6285,9
+194,SSD Drive,8870,168
+195,HDMI Cable,6828,166
+196,Laptop Stand,420,137
+197,Laptop Backpack,3403,67
+198,Power Bank,3824,11
+199,Noise Cancelling Headphones,1227,174
+200,Gaming Mousepad,1186,175
+201,Laptop Stand,4655,164
+202,Bluetooth Speaker,4297,182
+203,SSD Drive,2948,109
+204,Monitor 24inch,3597,69
+205,Portable Charger,2677,115
+206,Wireless Mouse,7427,191
+207,Laptop Backpack,5165,73
+208,Laptop Cooling Pad,5965,81
+209,Gaming Headset,7640,102
+210,SSD Drive,9956,172
+211,Power Bank,2267,32
+212,Portable Charger,8641,41
+213,Laptop Stand,4486,27
+214,Mechanical Keyboard,4596,59
+215,Laptop Stand,6053,113
+216,Mechanical Keyboard,9625,121
+217,Monitor 24inch,6866,186
+218,SSD Drive,6252,55
+219,Smartphone Stand,5088,80
+220,Laptop Stand,8174,130
+221,Laptop Cooling Pad,8111,58
+222,External SSD,6796,184
+223,Gaming Headset,3189,43
+224,Laptop Cooling Pad,1498,124
+225,Wireless Mouse,9378,60
+226,Webcam HD,2142,104
+227,Webcam HD,4696,117
+228,Smartphone Stand,2911,19
+229,Webcam HD,4153,81
+230,USB Cable,1600,185
+231,External SSD,4035,77
+232,Laptop Backpack,7814,68
+233,Mechanical Keyboard,6743,148
+234,USB Cable,1826,123
+235,HDMI Cable,2526,186
+236,Laptop Stand,1407,181
+237,SSD Drive,6778,166
+238,Smartphone Stand,5925,134
+239,USB Hub,5713,156
+240,HDMI Cable,7090,74
+241,Webcam HD,5150,164
+242,Webcam HD,2893,30
+243,HDMI Cable,9822,77
+244,Webcam HD,3007,60
+245,Noise Cancelling Headphones,5964,15
+246,Bluetooth Speaker,9861,60
+247,Noise Cancelling Headphones,6496,89
+248,External SSD,9852,172
+249,Wireless Mouse,197,35
+250,Bluetooth Speaker,5995,56
+251,Smartphone Stand,9842,32
+252,HDMI Cable,5662,136
+253,Bluetooth Speaker,9512,155
+254,Noise Cancelling Headphones,3462,28
+255,Smartphone Stand,5225,127
+256,Monitor 24inch,6218,83
+257,External SSD,4632,10
+258,Gaming Mousepad,5612,111
+259,Gaming Mousepad,4373,56
+260,Laptop Cooling Pad,9187,84
+261,USB Cable,6429,149
+262,SSD Drive,6296,117
+263,Portable Charger,1501,43
+264,Laptop Cooling Pad,5536,12
+265,Portable Charger,440,19
+266,Gaming Headset,8609,124
+267,Webcam HD,4726,183
+268,Gaming Headset,3463,53
+269,Bluetooth Speaker,7785,138
+270,USB Hub,4809,69
+271,Webcam HD,6951,116
+272,Portable Charger,6838,158
+273,HDMI Cable,9864,199
+274,Smartphone Stand,4256,159
+275,USB Cable,9684,63
+276,Laptop Stand,5937,187
+277,External SSD,7544,110
+278,Mechanical Keyboard,1084,74
+279,Gaming Mousepad,5159,82
+280,Wireless Mouse,7291,33
+281,Webcam HD,1706,188
+282,Power Bank,8568,199
+283,External SSD,857,3
+284,SSD Drive,3559,158
+285,Laptop Cooling Pad,4196,79
+286,Keyboard Wrist Rest,2370,133
+287,Gaming Mousepad,3814,37
+288,SSD Drive,994,131
+289,Laptop Backpack,4751,183
+290,Laptop Backpack,3505,28
+291,SSD Drive,7698,141
+292,Keyboard Wrist Rest,1216,104
+293,HDMI Cable,8532,119
+294,Noise Cancelling Headphones,6984,66
+295,Keyboard Wrist Rest,482,118
+296,Webcam HD,5460,138
+297,HDMI Cable,7861,49
+298,Bluetooth Speaker,7898,48
+299,Portable Charger,7011,31
+300,Monitor 24inch,9250,74
+301,Mechanical Keyboard,9785,116
+302,Laptop Stand,8946,31
+303,Monitor 24inch,4075,188
+304,Mechanical Keyboard,4572,64
+305,Laptop Stand,6970,200
+306,Keyboard Wrist Rest,2655,21
+307,HDMI Cable,1438,22
+308,Keyboard Wrist Rest,7138,29
+309,Gaming Headset,9348,56
+310,Laptop Stand,4271,58
+311,Webcam HD,1403,23
+312,Monitor 24inch,3888,84
+313,Monitor 24inch,9236,37
+314,Bluetooth Speaker,2538,138
+315,Wireless Mouse,6455,43
+316,HDMI Cable,2771,58
+317,External SSD,3096,19
+318,USB Hub,9707,85
+319,Power Bank,7178,126
+320,Gaming Mousepad,7853,163
+321,Keyboard Wrist Rest,7826,3
+322,Portable Charger,580,102
+323,Gaming Headset,1047,199
+324,SSD Drive,1742,49
+325,Gaming Headset,4908,35
+326,SSD Drive,3853,168
+327,External SSD,4744,192
+328,HDMI Cable,5041,133
+329,Keyboard Wrist Rest,1293,82
+330,Gaming Headset,9245,133
+331,Portable Charger,4421,87
+332,Power Bank,5305,129
+333,Power Bank,6646,145
+334,SSD Drive,1623,168
+335,Monitor 24inch,3428,120
+336,Monitor 24inch,6441,165
+337,Wireless Mouse,6485,139
+338,Mechanical Keyboard,3497,44
+339,Smartphone Stand,9627,184
+340,Smartphone Stand,1714,154
+341,Laptop Stand,5237,115
+342,Portable Charger,8037,103
+343,Portable Charger,8113,123
+344,Laptop Stand,6026,86
+345,Gaming Headset,7123,45
+346,Portable Charger,7918,149
+347,Keyboard Wrist Rest,784,36
+348,Gaming Mousepad,5971,168
+349,Laptop Stand,8366,55
+350,USB Cable,7408,182
+351,Smartphone Stand,6606,108
+352,Power Bank,5998,191
+353,HDMI Cable,1234,179
+354,Bluetooth Speaker,1049,35
+355,External SSD,6631,14
+356,Power Bank,8600,176
+357,SSD Drive,1450,48
+358,Laptop Cooling Pad,7919,120
+359,Monitor 24inch,6033,74
+360,Laptop Cooling Pad,9478,44
+361,Mechanical Keyboard,1179,185
+362,USB Hub,1682,34
+363,Monitor 24inch,7609,160
+364,Bluetooth Speaker,4090,17
+365,Webcam HD,4116,152
+366,Wireless Mouse,8704,7
+367,Gaming Headset,8937,187
+368,SSD Drive,4605,198
+369,USB Hub,371,122
+370,Webcam HD,7336,189
+371,Gaming Headset,5348,114
+372,External SSD,7464,183
+373,Laptop Backpack,8782,92
+374,Laptop Stand,4795,63
+375,Mechanical Keyboard,2263,58
+376,Monitor 24inch,7794,144
+377,SSD Drive,4423,166
+378,Webcam HD,2351,92
+379,Smartphone Stand,9913,85
+380,Noise Cancelling Headphones,4041,147
+381,Laptop Stand,5248,49
+382,Mechanical Keyboard,807,109
+383,Webcam HD,1558,96
+384,Noise Cancelling Headphones,8933,63
+385,Laptop Backpack,4498,27
+386,SSD Drive,8743,66
+387,SSD Drive,9845,7
+388,Laptop Stand,3448,158
+389,Laptop Stand,4791,189
+390,Laptop Backpack,3265,46
+391,Noise Cancelling Headphones,8975,63
+392,Laptop Cooling Pad,8331,116
+393,Monitor 24inch,1123,19
+394,External SSD,8150,122
+395,Monitor 24inch,1264,179
+396,Noise Cancelling Headphones,8773,83
+397,Monitor 24inch,5287,16
+398,Portable Charger,9692,13
+399,HDMI Cable,5911,93
+400,HDMI Cable,5305,197
+401,USB Cable,6315,60
+402,Power Bank,9609,148
+403,Webcam HD,6867,74
+404,USB Cable,1975,19
+405,Laptop Stand,9954,2
+406,SSD Drive,3999,43
+407,HDMI Cable,2900,63
+408,Keyboard Wrist Rest,2172,72
+409,Monitor 24inch,4753,49
+410,Keyboard Wrist Rest,9951,21
+411,Power Bank,9971,58
+412,HDMI Cable,577,2
+413,Gaming Mousepad,1062,56
+414,Laptop Backpack,2778,85
+415,USB Hub,7356,47
+416,Laptop Cooling Pad,2861,149
+417,Gaming Mousepad,9745,177
+418,Portable Charger,3510,170
+419,Noise Cancelling Headphones,9315,157
+420,USB Cable,8213,95
+421,Monitor 24inch,7852,111
+422,HDMI Cable,7456,34
+423,Gaming Mousepad,6533,193
+424,Noise Cancelling Headphones,166,157
+425,Monitor 24inch,228,29
+426,USB Cable,2820,159
+427,USB Hub,7845,13
+428,Laptop Cooling Pad,1901,118
+429,Keyboard Wrist Rest,2688,130
+430,External SSD,8537,54
+431,Monitor 24inch,137,114
+432,Mechanical Keyboard,9033,22
+433,Portable Charger,6495,132
+434,Mechanical Keyboard,8404,172
+435,HDMI Cable,2226,14
+436,HDMI Cable,9865,86
+437,SSD Drive,1526,17
+438,Portable Charger,8003,112
+439,Wireless Mouse,942,43
+440,HDMI Cable,2622,106
+441,Keyboard Wrist Rest,7041,136
+442,Laptop Cooling Pad,4854,98
+443,Laptop Stand,8425,96
+444,Portable Charger,7223,12
+445,Webcam HD,4480,163
+446,SSD Drive,8762,71
+447,Webcam HD,2647,49
+448,Gaming Mousepad,8372,51
+449,USB Hub,9889,22
+450,Smartphone Stand,1856,91
+451,Webcam HD,6214,24
+452,USB Hub,7702,44
+453,External SSD,1854,147
+454,Gaming Headset,3712,37
+455,Webcam HD,3270,162
+456,External SSD,3665,109
+457,Smartphone Stand,2449,197
+458,Smartphone Stand,4053,110
+459,Noise Cancelling Headphones,1509,16
+460,Noise Cancelling Headphones,6501,176
+461,USB Cable,4051,165
+462,Bluetooth Speaker,7875,98
+463,Power Bank,1308,62
+464,Keyboard Wrist Rest,2599,162
+465,Noise Cancelling Headphones,5361,146
+466,Keyboard Wrist Rest,7398,15
+467,Gaming Headset,7027,171
+468,Keyboard Wrist Rest,4936,3
+469,Mechanical Keyboard,3068,113
+470,USB Cable,9912,138
+471,Bluetooth Speaker,3409,61
+472,External SSD,5376,175
+473,SSD Drive,1651,28
+474,USB Cable,6223,80
+475,Portable Charger,4951,83
+476,Power Bank,9257,76
+477,Gaming Headset,2494,100
+478,Wireless Mouse,1789,65
+479,Laptop Cooling Pad,1388,18
+480,Laptop Backpack,5963,132
+481,Bluetooth Speaker,1962,1
+482,Gaming Headset,7513,155
+483,Bluetooth Speaker,1452,95
+484,Noise Cancelling Headphones,3419,142
+485,Laptop Backpack,4210,6
+486,Noise Cancelling Headphones,1985,149
+487,USB Hub,6953,131
+488,Mechanical Keyboard,1493,33
+489,Mechanical Keyboard,9176,129
+490,Laptop Cooling Pad,191,128
+491,Laptop Stand,1578,64
+492,Gaming Headset,1159,85
+493,Smartphone Stand,5771,167
+494,Bluetooth Speaker,5814,30
+495,HDMI Cable,2544,138
+496,Laptop Backpack,652,84
+497,Smartphone Stand,3009,77
+498,SSD Drive,3430,197
+499,Gaming Headset,7642,160
+500,Mechanical Keyboard,7876,145
