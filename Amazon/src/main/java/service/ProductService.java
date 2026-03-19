@@ -5,10 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 import org.apache.logging.log4j.LogManager;
-
 import org.apache.logging.log4j.Logger;
-
-
 import exceptions.ProductNotFoundException;
 import util.DBConnection;
 
@@ -17,48 +14,47 @@ public class ProductService {
 	public static final Logger logger =  LogManager.getLogger(ProductService.class);
 	
 	public void viewProducts(int page, int size) throws Exception {
-		
-		logger.info("Fetching products for page {} with size {}", page, size);
-		
-		Connection con = DBConnection.getConnection();
 
-		int offset = (page - 1) * size;
+	    Connection con = DBConnection.getConnection();
 
-		String query = "SELECT * FROM products LIMIT ? OFFSET ?";
+	    int offset = (page - 1) * size;
 
-		PreparedStatement ps = con.prepareStatement(query);
+	    String query = "SELECT * FROM products ORDER BY product_name ASC LIMIT ? OFFSET ?";
 
-		ps.setInt(1, size);
-		ps.setInt(2, offset);
+	    PreparedStatement ps = con.prepareStatement(query);
 
-		ResultSet rs = ps.executeQuery();
+	    ps.setInt(1, size);
+	    ps.setInt(2, offset);
 
-		System.out.println("\n===== PRODUCT LIST (Page " + page + ") =====");
-		System.out.println("ID | Product Name | Price | Quantity");
-		System.out.println("--------------------------------------");
+	    ResultSet rs = ps.executeQuery();
 
-		boolean hasData = false;
-		
-		logger.debug("Product fetched: ID={}, Name={}", rs.getInt("id"), rs.getString("product_name"));
-		
-		while (rs.next()) {
+	    System.out.println("\n===== PRODUCT LIST (Page " + page + ") =====");
+	    System.out.println("ID | Product Name | Price | Quantity");
+	    System.out.println("--------------------------------------");
 
-			hasData = true;
+	    boolean hasData = false;
 
-			System.out.println(rs.getInt("id") + " | " + rs.getString("product_name") + " | " + rs.getInt("price")
-					+ " | " + rs.getInt("quantity"));
-		}
+	    while (rs.next()) {
 
-		if (!hasData) {
-			logger.warn("No products found on page {}", page);
-			System.out.println("No products found on this page.");
-		}
+	        hasData = true;
 
-		rs.close();
-		ps.close();
-		con.close();
-		
-		logger.info("Finished fetching products for page {}", page);
+	        int id = rs.getInt("id");
+	        String name = rs.getString("product_name");
+	        int price = rs.getInt("price");
+	        int quantity = rs.getInt("quantity");
+
+	        logger.debug("Product fetched: ID={}, Name={}", id, name);
+
+	        System.out.println(id + " | " + name + " | " + price + " | " + quantity);
+	    }
+
+	    if (!hasData) {
+	        System.out.println("No products found on this page.");
+	    }
+
+	    rs.close();
+	    ps.close();
+	    con.close();
 	}
 
 	public void searchProduct(String name) throws Exception {

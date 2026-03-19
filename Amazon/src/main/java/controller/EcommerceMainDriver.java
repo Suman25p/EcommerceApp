@@ -14,13 +14,10 @@ import service.UserService;
 import util.CSVProductLoader;
 
 import org.apache.logging.log4j.LogManager;
-
 import org.apache.logging.log4j.Logger;
 
-
 public class EcommerceMainDriver {
-    private static final Logger logger = LogManager.getLogger(CartService.class);
-
+	private static final Logger logger = LogManager.getLogger(CartService.class);
 
 	public static int getValidInt(Scanner sc) {
 		while (true) {
@@ -92,9 +89,9 @@ public class EcommerceMainDriver {
 					System.out.println("Login Successful. UserID = " + loggedInUser);
 
 				} catch (UserNotFoundException e) {
-					logger.error("user not found exception "+e);
+					logger.error("user not found exception " + e);
 
-					//System.out.println(e.getMessage());
+					// System.out.println(e.getMessage());
 
 				}
 
